@@ -6,7 +6,7 @@ The goal for this project is to analyze the price changes in graphics cards over
 
 
 ## Team Members
-Mason, Scott, Bo, Kristi
+Mason, Scott, Kristi
 
 
 ## Questions to Answer
@@ -18,8 +18,8 @@ Mason, Scott, Bo, Kristi
 * Amazon for hardware pricing - top GPU and RAM models:  
 Graphics cards:  N_1080ti, N_1080, N_1070ti, N_1070, N_1060ti, N_1060, N_1050ti, N_1050, AMD_RX50, AMD_Vega_56
 
-* Kaggle for stock prices - AMD (AMD), Invidia (NVDA), and Intel (INTC)
-* Kaggle for cryto prices - Bitcoin (BTC), Ripple (XRP), Ethereum(ETH), Litecoin (LTC), EOS (EOS), and Dash (Dash)
+* Nasdaq for stock prices - AMD (AMD), Invidia (NVDA), and Micron (MU)
+* Crypto Compare for cryto prices - Bitcoin (BTC), Ripple (XRP), Ethereum(ETH), Litecoin (LTC), EOS (EOS), and Dash (Dash)
 
 
 ## Data Limitations
