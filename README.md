@@ -35,4 +35,4 @@ Graphics cards:  N_1080ti, N_1080, N_1070ti, N_1070, N_1060ti, N_1060, N_1050ti,
 
 ## Copyright
 
-Mason, Scott, Bo, Kristi © 2018. All Rights Reserved.
+Mason, Scott, Kristi © 2018. All Rights Reserved.
